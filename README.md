@@ -7,6 +7,9 @@
 ## Test Device
     Haier Chromebook 11 G2 (Heli)
 
+## Test OS
+    Arch Linux (Rolling)
+
 ## Changed Keymap List
     F1-F10 key to chromebook orignal media key
     Back Space key both have delete and backspace funcitions
