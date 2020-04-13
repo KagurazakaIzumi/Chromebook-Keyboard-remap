@@ -6,6 +6,7 @@
 
 ## Test Device
     Haier Chromebook 11 G2 (Heli)
+    Dell Chromebook 13 (7310) (Lulu)
 
 ## Test OS
     Arch Linux (Rolling)
